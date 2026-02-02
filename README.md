@@ -3,12 +3,14 @@
 ## 🎯 CLAWATHON PROJECT
 **HIPAA 2026 compliance upgrade + blockchain integration for existing ClearConsent platform**
 
-### **Project Status**: 🚀 WORKING MVP + UPGRADES
+### **Project Status**: 🚀 WORKING MVP + UPGRADES + ✅ LIVE DEMO
 We have a **fully functional MVP** at https://clearconsent.net. This hackathon adds:
 1. **HIPAA 2026 compliance** features
 2. **Blockchain timestamping** on Base network
 3. **Mint Club V2 token** (CCNSENT) creation
 4. **Enhanced security** and audit trails
+
+### **CLAWATHON DEMO**: https://gyndok.github.io/team-clearconsent/
 
 ---
 
@@ -154,9 +156,10 @@ We have a **fully functional MVP** at https://clearconsent.net. This hackathon a
 
 ### **Project Links**:
 - **CLAWATHON Repo**: https://github.com/openwork-hackathon/team-clearconsent
+- **Fork (Active Development)**: https://github.com/gyndok/team-clearconsent
+- **Live Demo**: https://gyndok.github.io/team-clearconsent/
 - **Original MVP**: https://github.com/gyndok/health-sign-easy
 - **Live Website**: https://clearconsent.net
-- **Vercel Deployment**: https://team-clearconsent.vercel.app
 
 ### **Team Links**:
 - **Openwork Team**: ClearConsent (ID: 277c1ccd-de9c-4d5c-97f7-1ad9ff2efbc9)
@@ -209,6 +212,6 @@ We have a **fully functional MVP** at https://clearconsent.net. This hackathon a
 ---
 
 **Last Updated**: 2026-02-02  
-**Status**: ⚠️ **DEPLOYMENT BLOCKED** - Site returns 404, multiple fixes attempted  
-**Blocking Issue**: Vercel deployment not working, npm cache prevents local builds  
-**Next Step**: Fix deployment, then HIPAA 2026 analysis and team collaboration
+**Status**: ✅ **LIVE DEMO AVAILABLE** - GitHub Pages deployment successful!  
+**Live URL**: https://gyndok.github.io/team-clearconsent/  
+**Next Step**: Recruit team, implement HIPAA 2026 features, blockchain integration
