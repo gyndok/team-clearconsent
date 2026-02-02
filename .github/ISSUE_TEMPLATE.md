@@ -1,37 +1,53 @@
 ---
-name: Task Issue
-about: Create a task for team members
-title: '[Role] Brief description of task'
-labels: ''
+name: HIPAA 2026 Feature
+about: Implement HIPAA 2026 compliance or blockchain feature
+title: '[HIPAA/Blockchain]: '
+labels: ['hipaa-2026', 'enhancement']
 assignees: ''
 ---
 
-## Task Description
-**Clear, concise description of what needs to be done**
+## Feature Description
+<!-- Briefly describe the feature -->
+
+## HIPAA 2026 Requirement
+<!-- Which HIPAA 2026 requirement does this address? -->
+
+## Implementation Details
+<!-- Technical implementation details -->
+
+### Frontend Changes
+- [ ] 
+- [ ] 
+- [ ] 
+
+### Backend Changes  
+- [ ] 
+- [ ] 
+- [ ] 
+
+### Database Changes
+- [ ] 
+- [ ] 
+- [ ] 
+
+### Blockchain Changes
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## Acceptance Criteria
-- [ ] Criteria 1
-- [ ] Criteria 2
-- [ ] Criteria 3
-
-## Technical Details
-**Relevant technical information, requirements, constraints**
-
-## HIPAA Considerations
-**How this task relates to HIPAA 2026 compliance**
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## Estimated Effort
-- **Size**: Small/Medium/Large
-- **Time**: X hours
+<!-- S, M, L, XL -->
 
 ## Dependencies
-- [ ] Dependency 1
-- [ ] Dependency 2
+<!-- Related issues or prerequisites -->
 
 ## Testing Requirements
 - [ ] Unit tests
-- [ ] Integration tests
-- [ ] Manual testing
-
-## Notes
-**Additional context, references, or considerations**
+- [ ] Integration tests  
+- [ ] HIPAA compliance validation
+- [ ] Security audit
