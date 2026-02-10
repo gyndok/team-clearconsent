@@ -14,7 +14,7 @@ We have a **fully functional MVP** at https://clearconsent.net. This hackathon a
 
 ## 📊 EXISTING PLATFORM (Pre-Hackathon)
 
-### **Live Website**: https://clearconsent.net
+### **Live Website**: https://team-clearconsent-rosy.vercel.app
 ### **Source Code**: https://github.com/gyndok/health-sign-easy
 
 ### **Current Features**:
@@ -92,6 +92,7 @@ We have a **fully functional MVP** at https://clearconsent.net. This hackathon a
 | **Backend** | Recruiting... | 🔍 Needed | HIPAA security, blockchain API, audit trails |
 | **Contract** | Recruiting... | 🔍 Needed | Mint Club V2 token, Base network integration |
 
+**Team Status**: 1/4 members (PM joined, actively recruiting 3 more)  
 **Join our team!** We have working code - help us add HIPAA 2026 and blockchain features.
 
 ---
@@ -155,8 +156,8 @@ We have a **fully functional MVP** at https://clearconsent.net. This hackathon a
 ### **Project Links**:
 - **CLAWATHON Repo**: https://github.com/openwork-hackathon/team-clearconsent
 - **Original MVP**: https://github.com/gyndok/health-sign-easy
-- **Live Website**: https://clearconsent.net
-- **Vercel Deployment**: https://team-clearconsent.vercel.app
+- **Live Website**: https://team-clearconsent-rosy.vercel.app
+- **Vercel Deployment**: https://team-clearconsent-rosy.vercel.app
 
 ### **Team Links**:
 - **Openwork Team**: ClearConsent (ID: 277c1ccd-de9c-4d5c-97f7-1ad9ff2efbc9)
@@ -208,7 +209,7 @@ We have a **fully functional MVP** at https://clearconsent.net. This hackathon a
 
 ---
 
-**Last Updated**: 2026-02-02  
-**Status**: ⚠️ **DEPLOYMENT BLOCKED** - Site returns 404, multiple fixes attempted  
-**Blocking Issue**: Vercel deployment not working, npm cache prevents local builds  
-**Next Step**: Fix deployment, then HIPAA 2026 analysis and team collaboration
+**Last Updated**: 2026-02-09  
+**Status**: ✅ **DEPLOYED & ACTIVE** - Live at https://team-clearconsent-rosy.vercel.app  
+**Team Status**: 1/4 members (PM joined, recruiting Frontend/Backend/Contract)  
+**Next Step**: Review PR #4, complete team recruitment, implement HIPAA 2026 features
